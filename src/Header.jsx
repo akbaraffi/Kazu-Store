@@ -9,7 +9,6 @@ function Header() {
                     <li><a href="#" className="px-2 py-1 hover:underline transition">Products</a></li>
                     <li><a href="#" className="px-2 py-1 hover:underline transition">About</a></li>
                     <li><a href="#" className="bg-white text-gray-800 rounded-xl px-3 py-2 font-medium hover:bg-gray-300 transition">Log In</a></li>
-                    <li><a href="#" className="bg-white text-gray-800 rounded-xl px-3 py-2 font-medium hover:bg-gray-300 transition">Sign Up</a></li>
                 </ul>
             </nav>
         </header>
