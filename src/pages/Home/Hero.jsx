@@ -1,4 +1,4 @@
-import hero from "./assets/hero.png";
+import hero from "../../assets/hero.png";
 
 export default function Hero() {
     return (
@@ -18,4 +18,3 @@ export default function Hero() {
         </section>
     );
 }
-  
